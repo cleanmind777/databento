@@ -1,0 +1,5 @@
+fastapi==0.120.0
+uvicorn[standard]==0.38.0
+databento==0.64.0
+databento-dbn==0.42.0
+python-dotenv==1.2.1
